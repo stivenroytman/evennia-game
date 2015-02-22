@@ -10,6 +10,8 @@ autobahn >= 20.7.1, < 21.0.0
 
 # try to resolve dependency issue in py3.7
 attrs >= 19.2.0
+model_mommy
+python-dateutil
 
 # testing and development
 model_mommy
